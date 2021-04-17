@@ -1,0 +1,275 @@
+.our-sidebar{
+    height: 100vh;
+}
+body{
+    height: 100%;
+}
+
+.col-7{
+    background-color: white;
+    
+}
+
+.trello-link{
+    text-decoration: none;
+}
+
+.col-4{
+    box-shadow: -0.1em 0 .4em rgba(0, 0, 0, 0.25);
+    background-color: #F5F5F5;
+    height: 100vh;
+}
+
+.production-rate{
+    background: #FFFDFD;
+    width: 90%;
+    box-shadow: 3px 3px 18px -5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+.profile-picture{
+    margin-top: 40px;
+    width: 127px;
+    height: 127px;
+    border-radius: 18px;
+}
+
+.profile-box{
+    text-align: center;
+    
+}
+
+.name-person{
+    margin-top: 30px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 25px;
+
+    text-align: center;
+    letter-spacing: 0.075em;
+
+    color: #000000;
+}
+
+.date-person{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 135.94%;
+    /* identical to box height, or 22px */
+
+    text-align: center;
+
+    color: #7B808B;
+}
+
+
+.projects-label{
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+.image-team{
+    width: 70px;
+    height: 70px;
+    border-radius: 20%;
+}
+
+.team{
+    margin-left: 20px;
+}
+
+.team-row{
+    margin: 30px;
+}
+
+h1{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 135.94%;
+
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+
+.card{
+    margin: 40px;
+    margin-right: 160px;
+}
+
+.first-sect{
+    background-color: #7EA2D9;
+}
+
+.second-sect{
+    background-color: #6889BB;
+}
+
+.date-deadline{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 15px;
+    margin: 20px;
+    letter-spacing: 0.075em;
+
+    color: #FFFFFF;
+}
+
+.profile-org-picture{
+    margin-top: 10px;
+    width: 69px;
+    height: 69px;
+    border-radius: 21px;
+}
+
+.profile-org-name{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 25px;
+    /* identical to box height, or 147% */
+    margin-top: 22%;
+    margin-left: -21%;
+    letter-spacing: 0.075em;
+
+    color: #FFFFFF;
+}
+
+.form-group{
+    width: 83%;
+}
+
+.card-title{
+    margin-left: 7px;
+}
+
+.form-control{
+    margin-left: 7px;
+}
+
+#addBtn{
+    margin-left: 7px;
+}
+
+.card-body{
+    margin: 0;
+}
+
+.next-meeting{
+    width: 333px;
+    height: 96px;
+    background: #7EA2D9;
+    box-shadow: 3px 3px 18px -5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.text-next-meeting{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 25px;
+    padding: 6% 0 0 4%; 
+    letter-spacing: 0.075em;
+
+    color: #FFFFFF;
+}
+
+.meet-date{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 0 0 0 4%; 
+    letter-spacing: 0.075em;
+    float: left;
+    color: #FFFFFF;
+}
+
+.add-task{
+    width: 210px;
+    height: 39px;
+    background: #F5F5F5;
+    box-shadow: 3px 3px 18px -5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-left: -7%;
+
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 25px;
+    /* identical to box height, or 125% */
+
+    text-align: center;
+    letter-spacing: 0.075em;
+
+    color: #000000;
+}
+
+.heading-second{
+    margin-top: 11%;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 23px;
+    line-height: 25px;
+    /* identical to box height, or 109% */
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+.task{
+    width: 330px;
+    height: 40px;
+    background: #F5F5F5;
+    box-shadow: 3px 3px 18px -5px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.text-in-task{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    margin-top: 7%;
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+.refresh1{
+    width: 130px;
+}
+
+.refresh{
+    width: 195px;
+}

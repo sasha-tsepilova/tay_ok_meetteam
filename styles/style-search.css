@@ -1,0 +1,120 @@
+body{
+    height: 100%;
+}
+.row{
+    height: 100%;
+}
+
+.col-8{
+    background-color: white;
+}
+
+.col-3{
+    box-shadow: -0.1em 0 .4em rgba(0, 0, 0, 0.25);
+    background-color: #F5F5F5;
+}
+.col-1{
+    background-color:#f8f9fa;
+}
+
+h1{
+    margin-left: 70px;
+    margin-top: 40px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 135.94%;
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+h4{
+    margin-top: 40px;
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+
+    color: #000000;
+}
+
+#input1{
+    margin-left: 70px
+}
+
+.btn{
+    margin-left: 80px;
+}
+
+.branch{
+    margin-left: 40px;
+}
+
+.form-check{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#participants{
+    margin-top: 30px;
+}
+
+.range-sp{
+    width:70%
+}
+
+.searchtopic{
+    width: 65%;
+}
+
+.team{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.image-team{
+    width: 70px;
+    height: 70px;
+    border-radius: 20%;
+}
+
+.team-name{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+
+    letter-spacing: 0.075em;
+
+    color: #000000;
+}
+
+.free-space{
+    font-family: 'Rubik', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 25px;
+    letter-spacing: 0.075em;
+    color: #000000;
+}
+
+.join-button{
+    margin-top: 20px;
+    margin-left: -45px;
+}
+
+.team-row{
+    margin-top: 25px;
+}
+
+.our-sidebar{
+    height: 100vh;
+}
+
+.block-side{
+    width: 100%;
+}

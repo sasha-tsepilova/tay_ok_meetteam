@@ -1,0 +1,18 @@
+.our-sidebar{
+    height: 100vh;
+}
+
+body{
+    height: 100%;
+}
+.row{
+    height: 100%;
+}
+
+.col-11{
+    background-color: #84a2d4; 
+}
+
+.card-body{
+    text-align: center;
+}
